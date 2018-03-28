@@ -72,7 +72,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **GitUser1** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+
+* **GitUserXyzz** *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
